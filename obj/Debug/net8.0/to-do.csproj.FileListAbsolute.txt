@@ -1,0 +1,4 @@
+C:\Users\chris\OneDrive\Documents\proyectosdotnet\proyectos-aprender\to-do\obj\Debug\net8.0\to-do.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documents\proyectosdotnet\proyectos-aprender\to-do\obj\Debug\net8.0\to-do.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documents\proyectosdotnet\proyectos-aprender\to-do\obj\Debug\net8.0\to-do.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documents\proyectosdotnet\proyectos-aprender\to-do\obj\Debug\net8.0\to-do.csproj.CoreCompileInputs.cache
